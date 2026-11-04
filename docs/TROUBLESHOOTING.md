@@ -77,7 +77,7 @@ temp             OK       D:\...\chordlite\temp
 
 ## 第 5 步：还不行
 
-开 [Issue](../../issues)，附上：
+开 [Issue](https://github.com/Rduex/Chordlite/issues)，附上：
 
 1. `check_env.bat` 的完整输出（**截图或复制文字**）
 2. `start.bat` 的报错（如果有）
