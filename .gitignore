@@ -1,0 +1,18 @@
+# Release binaries are attached to GitHub/Gitee Releases, never committed:
+# the zip is ~527 MB and model weights are 226 MB, both far over sensible git sizes.
+*.zip
+*.exe
+*.7z
+models/
+
+# runtime products
+cache/
+uploads/
+temp/
+__pycache__/
+*.pyc
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
