@@ -118,7 +118,7 @@
 
 ## 反馈
 
-发现问题请开 [Issue](../../issues)，附上：
+发现问题请开 [Issue](https://github.com/Rduex/Chordlite/issues)，附上：
 
 1. 用的哪个板块
 2. 音频大概是什么类型（不用发歌，版权问题）
